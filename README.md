@@ -2,8 +2,9 @@
 
 Grad Cam is implemented to produce localization map highlighting important regions in the image when PGD target attack is applied.
 
-# Requirements and Installation
+## Requirements and Installation
 
+- PyTorch version >=1.4.0
 
 ```
 pip install torchattacks
@@ -12,5 +13,3 @@ pip install torchattacks
 ```
 pip install opencv-python
 ```
-
-# usage
